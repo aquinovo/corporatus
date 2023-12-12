@@ -1,0 +1,5 @@
+matplotlib
+scikit-learn
+pandas
+python-decouple
+--upgrade git+https://github.com/orientechnologies/pyorient.git
